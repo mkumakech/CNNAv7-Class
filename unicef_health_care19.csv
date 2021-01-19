@@ -1,0 +1,978 @@
+Category,UNICEF Region,UNICEF Region Name,Indicator,Stratifier,Level,2006-2012,2013-2019
+Global UNICEF Reporting,Global,Global (Reporting),DIARCARE,National,National,44.5,57.7
+Global UNICEF Reporting,Global,Global (Reporting),DIARCARE,Area,Rural,43.5,56.5
+Global UNICEF Reporting,Global,Global (Reporting),DIARCARE,Sex,Female,43.3,56.5
+Global UNICEF Reporting,Global,Global (Reporting),DIARCARE,Sex,Male,45.3,58.2
+Global UNICEF Reporting,Global,Global (Reporting),DIARCARE,WIQ,Poorest,38.3,52.4
+Global UNICEF Reporting,Global,Global (Reporting),DIARCARE,WIQ,Second,42.3,55.7
+Global UNICEF Reporting,Global,Global (Reporting),DIARCARE,WIQ,Middle,46.9,59
+Global UNICEF Reporting,Global,Global (Reporting),DIARCARE,WIQ,Fourth,48.9,60.1
+Global UNICEF Reporting,Global,Global (Reporting),DIARCARE,WIQ,Richest,56.1,64.7
+Global UNICEF Reporting,Global,Global (Reporting),ORS,National,National,34.9,43.8
+Global UNICEF Reporting,Global,Global (Reporting),ORS,Area,Rural,32.7,42.1
+Global UNICEF Reporting,Global,Global (Reporting),ORS,Sex,Female,34.1,42.7
+Global UNICEF Reporting,Global,Global (Reporting),ORS,Sex,Male,35.6,44.5
+Global UNICEF Reporting,Global,Global (Reporting),ORS,WIQ,Poorest,29,38.9
+Global UNICEF Reporting,Global,Global (Reporting),ORS,WIQ,Second,30.4,41
+Global UNICEF Reporting,Global,Global (Reporting),ORS,WIQ,Middle,34.6,44
+Global UNICEF Reporting,Global,Global (Reporting),ORS,WIQ,Fourth,37.5,46.8
+Global UNICEF Reporting,Global,Global (Reporting),ORS,WIQ,Richest,43.2,49.4
+Global UNICEF Reporting,Global,Global (Reporting),ORSZINC,National,National,1.6,15.6
+Global UNICEF Reporting,Global,Global (Reporting),ORSZINC,Area,Rural,1.5,14.5
+Global UNICEF Reporting,Global,Global (Reporting),ORTCF,National,National,39.2,42.2
+Global UNICEF Reporting,Global,Global (Reporting),ORTCF,Area,Rural,37.2,40.4
+Global UNICEF Reporting,Global,Global (Reporting),ORTCF,WIQ,Poorest,36.1,37.8
+Global UNICEF Reporting,Global,Global (Reporting),ORTCF,WIQ,Second,36.2,41
+Global UNICEF Reporting,Global,Global (Reporting),ORTCF,WIQ,Middle,37.8,42.2
+Global UNICEF Reporting,Global,Global (Reporting),ORTCF,WIQ,Fourth,40.7,44.5
+Global UNICEF Reporting,Global,Global (Reporting),ORTCF,WIQ,Richest,45.9,49.5
+Global UNICEF Reporting,Global,Global (Reporting),PNEUCARE,National,National,60,68.3
+Global UNICEF Reporting,Global,Global (Reporting),PNEUCARE,Area,Rural,57.3,65.5
+Global UNICEF Reporting,Global,Global (Reporting),PNEUCARE,Sex,Female,58.6,66.6
+Global UNICEF Reporting,Global,Global (Reporting),PNEUCARE,Sex,Male,61.4,70
+Global UNICEF Reporting,Global,Global (Reporting),PNEUCARE,WIQ,Poorest,50.7,60.5
+Global UNICEF Reporting,Global,Global (Reporting),PNEUCARE,WIQ,Second,57.4,65.3
+Global UNICEF Reporting,Global,Global (Reporting),PNEUCARE,WIQ,Middle,60.7,68.9
+Global UNICEF Reporting,Global,Global (Reporting),PNEUCARE,WIQ,Fourth,66.9,73.4
+Global UNICEF Reporting,Global,Global (Reporting),PNEUCARE,WIQ,Richest,74.5,79.2
+Global UNICEF Reporting,Global,Global (Reporting),ZINC,National,National,3,22.9
+Global UNICEF Reporting,Global,Global (Reporting),ZINC,Area,Rural,2.8,21.6
+UNICEF Reporting Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,DIARCARE,Area,Rural,36.5,46.4
+UNICEF Reporting Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORS,Area,Rural,29.5,27.2
+UNICEF Reporting Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORTCF,Area,Rural,28.2,19.4
+UNICEF Reporting Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,PNEUCARE,Area,Rural,61.9,59.8
+UNICEF Reporting Sub-Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,DIARCARE,Area,Rural,36.5,46.4
+UNICEF Reporting Sub-Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORS,Area,Rural,29.5,27.2
+UNICEF Reporting Sub-Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORTCF,Area,Rural,28.2,19.4
+UNICEF Reporting Sub-Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,PNEUCARE,Area,Rural,61.9,59.8
+UNICEF Reporting Region,SA,SouthÿAsia,DIARCARE,National,National,54.7,63.9
+UNICEF Reporting Region,SA,SouthÿAsia,DIARCARE,Area,Urban,61,68.5
+UNICEF Reporting Region,SA,SouthÿAsia,DIARCARE,Area,Rural,52.5,61.9
+UNICEF Reporting Region,SA,SouthÿAsia,DIARCARE,Sex,Female,52.8,62.2
+UNICEF Reporting Region,SA,SouthÿAsia,DIARCARE,Sex,Male,56.4,65
+UNICEF Reporting Region,SA,SouthÿAsia,DIARCARE,WIQ,Poorest,45.7,55.8
+UNICEF Reporting Region,SA,SouthÿAsia,DIARCARE,WIQ,Second,51,60.6
+UNICEF Reporting Region,SA,SouthÿAsia,DIARCARE,WIQ,Middle,54.6,66.9
+UNICEF Reporting Region,SA,SouthÿAsia,DIARCARE,WIQ,Fourth,59,68.5
+UNICEF Reporting Region,SA,SouthÿAsia,DIARCARE,WIQ,Richest,68.6,73.5
+UNICEF Reporting Region,SA,SouthÿAsia,DIARCARE,Mother's Education,None,49.4,59
+UNICEF Reporting Region,SA,SouthÿAsia,DIARCARE,Mother's Education,Primary,56.4,61.4
+UNICEF Reporting Region,SA,SouthÿAsia,MLRACT,National,National,5.6,8.5
+UNICEF Reporting Region,SA,SouthÿAsia,MLRACT,Area,Urban,4.8,13.7
+UNICEF Reporting Region,SA,SouthÿAsia,MLRACT,Area,Rural,6,6.5
+UNICEF Reporting Region,SA,SouthÿAsia,MLRACT,Sex,Female,5.6,9.8
+UNICEF Reporting Region,SA,SouthÿAsia,MLRACT,Sex,Male,5.6,7.3
+UNICEF Reporting Region,SA,SouthÿAsia,MLRACT,WIQ,Poorest,4.5,6
+UNICEF Reporting Region,SA,SouthÿAsia,MLRACT,WIQ,Second,6.4,8.3
+UNICEF Reporting Region,SA,SouthÿAsia,MLRACT,WIQ,Middle,6.7,5.6
+UNICEF Reporting Region,SA,SouthÿAsia,MLRACT,WIQ,Fourth,6.1,11.2
+UNICEF Reporting Region,SA,SouthÿAsia,MLRACT,WIQ,Richest,4.4,13.2
+UNICEF Reporting Region,SA,SouthÿAsia,MLRCARE,National,National,66.4,71.5
+UNICEF Reporting Region,SA,SouthÿAsia,MLRCARE,Area,Urban,74.4,78.2
+UNICEF Reporting Region,SA,SouthÿAsia,MLRCARE,Area,Rural,63.9,69.4
+UNICEF Reporting Region,SA,SouthÿAsia,MLRCARE,Sex,Female,63.8,70.4
+UNICEF Reporting Region,SA,SouthÿAsia,MLRCARE,Sex,Male,68.5,72.6
+UNICEF Reporting Region,SA,SouthÿAsia,MLRCARE,WIQ,Poorest,59,62.3
+UNICEF Reporting Region,SA,SouthÿAsia,MLRCARE,WIQ,Second,62.4,68.3
+UNICEF Reporting Region,SA,SouthÿAsia,MLRCARE,WIQ,Middle,67.6,73.5
+UNICEF Reporting Region,SA,SouthÿAsia,MLRCARE,WIQ,Fourth,70.6,78.3
+UNICEF Reporting Region,SA,SouthÿAsia,MLRCARE,WIQ,Richest,78.5,81.3
+UNICEF Reporting Region,SA,SouthÿAsia,ORS,National,National,33.8,49.8
+UNICEF Reporting Region,SA,SouthÿAsia,ORS,Area,Urban,39.6,55.4
+UNICEF Reporting Region,SA,SouthÿAsia,ORS,Area,Rural,31.6,47.7
+UNICEF Reporting Region,SA,SouthÿAsia,ORS,Sex,Female,33.1,48.9
+UNICEF Reporting Region,SA,SouthÿAsia,ORS,Sex,Male,34.3,50.4
+UNICEF Reporting Region,SA,SouthÿAsia,ORS,WIQ,Poorest,28.8,45.4
+UNICEF Reporting Region,SA,SouthÿAsia,ORS,WIQ,Second,28.9,47.5
+UNICEF Reporting Region,SA,SouthÿAsia,ORS,WIQ,Middle,32.9,49.7
+UNICEF Reporting Region,SA,SouthÿAsia,ORS,WIQ,Fourth,36.4,54.4
+UNICEF Reporting Region,SA,SouthÿAsia,ORS,WIQ,Richest,46.7,57.3
+UNICEF Reporting Region,SA,SouthÿAsia,ORSZINC,National,National,2.3,17.1
+UNICEF Reporting Region,SA,SouthÿAsia,ORSZINC,Area,Urban,3.1,20.2
+UNICEF Reporting Region,SA,SouthÿAsia,ORSZINC,Area,Rural,2,16
+UNICEF Reporting Region,SA,SouthÿAsia,ORSZINC,Sex,Female,2.4,17
+UNICEF Reporting Region,SA,SouthÿAsia,ORSZINC,Sex,Male,2.2,17.2
+UNICEF Reporting Region,SA,SouthÿAsia,ORSZINC,WIQ,Middle,3.2,17.1
+UNICEF Reporting Region,SA,SouthÿAsia,ORSZINC,WIQ,Richest,3.8,21.3
+UNICEF Reporting Region,SA,SouthÿAsia,ORTCF,National,National,38,41
+UNICEF Reporting Region,SA,SouthÿAsia,ORTCF,Area,Urban,42.1,44.4
+UNICEF Reporting Region,SA,SouthÿAsia,ORTCF,Area,Rural,36.1,39.6
+UNICEF Reporting Region,SA,SouthÿAsia,ORTCF,WIQ,Poorest,34.5,37.7
+UNICEF Reporting Region,SA,SouthÿAsia,ORTCF,WIQ,Second,35.1,38.9
+UNICEF Reporting Region,SA,SouthÿAsia,ORTCF,WIQ,Middle,35.2,40.5
+UNICEF Reporting Region,SA,SouthÿAsia,ORTCF,WIQ,Fourth,39.7,44.4
+UNICEF Reporting Region,SA,SouthÿAsia,ORTCF,WIQ,Richest,47.8,46.3
+UNICEF Reporting Region,SA,SouthÿAsia,PNEUCARE,National,National,65.4,75.9
+UNICEF Reporting Region,SA,SouthÿAsia,PNEUCARE,Area,Urban,75.7,83.6
+UNICEF Reporting Region,SA,SouthÿAsia,PNEUCARE,Area,Rural,62.3,73.6
+UNICEF Reporting Region,SA,SouthÿAsia,PNEUCARE,Sex,Female,62.2,73.9
+UNICEF Reporting Region,SA,SouthÿAsia,PNEUCARE,Sex,Male,67.9,77.5
+UNICEF Reporting Region,SA,SouthÿAsia,PNEUCARE,WIQ,Poorest,56.5,65.8
+UNICEF Reporting Region,SA,SouthÿAsia,PNEUCARE,WIQ,Second,62.6,72.8
+UNICEF Reporting Region,SA,SouthÿAsia,PNEUCARE,WIQ,Middle,65.3,77.5
+UNICEF Reporting Region,SA,SouthÿAsia,PNEUCARE,WIQ,Fourth,73,81.8
+UNICEF Reporting Region,SA,SouthÿAsia,PNEUCARE,WIQ,Richest,78.6,87.6
+UNICEF Reporting Region,SA,SouthÿAsia,ZINC,National,National,4.7,23.3
+UNICEF Reporting Region,SA,SouthÿAsia,ZINC,Area,Urban,6.4,26.4
+UNICEF Reporting Region,SA,SouthÿAsia,ZINC,Area,Rural,4.3,22.3
+UNICEF Reporting Region,SA,SouthÿAsia,ZINC,Sex,Female,4.5,22.8
+UNICEF Reporting Region,SA,SouthÿAsia,ZINC,Sex,Male,4.8,23.7
+UNICEF Reporting Region,SA,SouthÿAsia,ZINC,WIQ,Second,5,21.9
+UNICEF Reporting Region,SA,SouthÿAsia,ZINC,WIQ,Middle,5.1,24.1
+UNICEF Reporting Region,SA,SouthÿAsia,ZINC,WIQ,Fourth,4.8,25.3
+UNICEF Reporting Region,SA,SouthÿAsia,ZINC,WIQ,Richest,6,27.9
+UNICEF Reporting Region,SA,SouthÿAsia,ZINC,Mother's Education,None,4.1,20.3
+UNICEF Reporting Region,SA,SouthÿAsia,ZINC,Mother's Education,Primary,4.9,21.4
+UNICEF Reporting Region,SA,SouthÿAsia,ZINC,Mother's Education,Sec & higher,5.6,23.8
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,DIARCARE,National,National,54.7,63.9
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,DIARCARE,Area,Urban,61,68.5
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,DIARCARE,Area,Rural,52.5,61.9
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,DIARCARE,Sex,Female,52.8,62.2
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,DIARCARE,Sex,Male,56.4,65
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,DIARCARE,WIQ,Poorest,45.7,55.8
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,DIARCARE,WIQ,Second,51,60.6
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,DIARCARE,WIQ,Middle,54.6,66.9
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,DIARCARE,WIQ,Fourth,59,68.5
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,DIARCARE,WIQ,Richest,68.6,73.5
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,DIARCARE,Mother's Education,None,49.4,59
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,DIARCARE,Mother's Education,Primary,56.4,61.4
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,MLRACT,National,National,5.6,8.5
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,MLRACT,Area,Urban,4.8,13.7
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,MLRACT,Area,Rural,6,6.5
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,MLRACT,Sex,Female,5.6,9.8
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,MLRACT,Sex,Male,5.6,7.3
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,MLRACT,WIQ,Poorest,4.5,6
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,MLRACT,WIQ,Second,6.4,8.3
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,MLRACT,WIQ,Middle,6.7,5.6
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,MLRACT,WIQ,Fourth,6.1,11.2
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,MLRACT,WIQ,Richest,4.4,13.2
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,MLRCARE,National,National,66.4,71.5
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,MLRCARE,Area,Urban,74.4,78.2
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,MLRCARE,Area,Rural,63.9,69.4
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,MLRCARE,Sex,Female,63.8,70.4
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,MLRCARE,Sex,Male,68.5,72.6
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,MLRCARE,WIQ,Poorest,59,62.3
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,MLRCARE,WIQ,Second,62.4,68.3
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,MLRCARE,WIQ,Middle,67.6,73.5
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,MLRCARE,WIQ,Fourth,70.6,78.3
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,MLRCARE,WIQ,Richest,78.5,81.3
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORS,National,National,33.8,49.8
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORS,Area,Urban,39.6,55.4
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORS,Area,Rural,31.6,47.7
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORS,Sex,Female,33.1,48.9
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORS,Sex,Male,34.3,50.4
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORS,WIQ,Poorest,28.8,45.4
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORS,WIQ,Second,28.9,47.5
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORS,WIQ,Middle,32.9,49.7
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORS,WIQ,Fourth,36.4,54.4
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORS,WIQ,Richest,46.7,57.3
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORSZINC,National,National,2.3,17.1
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORSZINC,Area,Urban,3.1,20.2
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORSZINC,Area,Rural,2,16
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORSZINC,Sex,Female,2.4,17
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORSZINC,Sex,Male,2.2,17.2
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORSZINC,WIQ,Middle,3.2,17.1
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORSZINC,WIQ,Richest,3.8,21.3
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORTCF,National,National,38,41
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORTCF,Area,Urban,42.1,44.4
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORTCF,Area,Rural,36.1,39.6
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORTCF,WIQ,Poorest,34.5,37.7
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORTCF,WIQ,Second,35.1,38.9
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORTCF,WIQ,Middle,35.2,40.5
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORTCF,WIQ,Fourth,39.7,44.4
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ORTCF,WIQ,Richest,47.8,46.3
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,PNEUCARE,National,National,65.4,75.9
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,PNEUCARE,Area,Urban,75.7,83.6
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,PNEUCARE,Area,Rural,62.3,73.6
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,PNEUCARE,Sex,Female,62.2,73.9
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,PNEUCARE,Sex,Male,67.9,77.5
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,PNEUCARE,WIQ,Poorest,56.5,65.8
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,PNEUCARE,WIQ,Second,62.6,72.8
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,PNEUCARE,WIQ,Middle,65.3,77.5
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,PNEUCARE,WIQ,Fourth,73,81.8
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,PNEUCARE,WIQ,Richest,78.6,87.6
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ZINC,National,National,4.7,23.3
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ZINC,Area,Urban,6.4,26.4
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ZINC,Area,Rural,4.3,22.3
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ZINC,Sex,Female,4.5,22.8
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ZINC,Sex,Male,4.8,23.7
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ZINC,WIQ,Second,5,21.9
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ZINC,WIQ,Middle,5.1,24.1
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ZINC,WIQ,Fourth,4.8,25.3
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ZINC,WIQ,Richest,6,27.9
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ZINC,Mother's Education,None,4.1,20.3
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ZINC,Mother's Education,Primary,4.9,21.4
+UNICEF Reporting Sub-Region,SA,SouthÿAsia,ZINC,Mother's Education,Sec & higher,5.6,23.8
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,DIARCARE,National,National,35.2,51.9
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,DIARCARE,Area,Urban,38.6,54.1
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,DIARCARE,Area,Rural,34.9,51.1
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,DIARCARE,Sex,Female,34.3,51.4
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,DIARCARE,Sex,Male,34.6,50.5
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,DIARCARE,WIQ,Poorest,29.4,47.1
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,DIARCARE,WIQ,Second,32.1,49.9
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,DIARCARE,WIQ,Middle,37.4,52.6
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,DIARCARE,WIQ,Fourth,38.9,51.8
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,DIARCARE,WIQ,Richest,44.8,58.2
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,DIARCARE,Mother's Education,None,30.9,38.5
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,DIARCARE,Mother's Education,Primary,37.3,43.1
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,DIARCARE,Mother's Education,Sec & Higher,44.3,43.5
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,IPTP,National,National,7.1,21.5
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,IPTP,Area,Urban,9.1,23.9
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,IPTP,Area,Rural,6.6,19.5
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,IPTP,WIQ,Poorest,5.3,16.5
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,IPTP,WIQ,Second,6.5,17.3
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,IPTP,WIQ,Middle,7,20.1
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,IPTP,WIQ,Fourth,8.9,22.9
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,IPTP,WIQ,Richest,9.8,24.2
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,IPTP,Mother's Education,None,5.4,16.6
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,IPTP,Mother's Education,Primary,7.5,19.6
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,IPTP,Mother's Education,Sec & higher,9.7,23.8
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITN,National,National,35.2,53.4
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITN,Area,Urban,34.3,49.4
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITN,Area,Rural,35.6,52
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITN,Sex,Female,31.8,53.4
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITN,Sex,Male,31.1,53.2
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITN,WIQ,Poorest,26.7,48.4
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITN,WIQ,Second,29.2,53.6
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITN,WIQ,Middle,30.3,53.2
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITN,WIQ,Fourth,32.1,52.7
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITN,WIQ,Richest,34.8,49.8
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITNOWN,National,National,48.5,66
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITNOWN,Area,Urban,44.4,60.7
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITNOWN,Area,Rural,51,67.6
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITNOWN,WIQ,Poorest,36.4,63.9
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITNOWN,WIQ,Second,41,69
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITNOWN,WIQ,Middle,42.3,68.3
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITNOWN,WIQ,Fourth,44,66.4
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITNOWN,WIQ,Richest,47,62.2
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITNPREG,National,National,31.4,56.1
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITNPREG,Area,Urban,28.3,48.7
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITNPREG,Area,Rural,33.5,58
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITNPREG,WIQ,Poorest,29.3,55.4
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITNPREG,WIQ,Second,31.9,61.7
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITNPREG,WIQ,Middle,31.6,58
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITNPREG,WIQ,Fourth,32.4,51
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ITNPREG,WIQ,Richest,31.9,48.3
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,MLRACT,National,National,27.4,53.9
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,MLRACT,Area,Urban,23.8,51.4
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,MLRACT,Area,Rural,22.5,55.7
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,MLRACT,Sex,Female,21.9,53.2
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,MLRACT,Sex,Male,21.8,54.4
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,MLRACT,WIQ,Poorest,21.4,51.6
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,MLRACT,WIQ,Second,21.3,55
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,MLRACT,WIQ,Middle,21.3,51.3
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,MLRACT,WIQ,Fourth,22.3,52.2
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,MLRACT,WIQ,Richest,25.2,51.5
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,MLRDIAG,National,National,14.3,26.4
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,MLRDIAG,Area,Urban,20.7,29.1
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,MLRDIAG,Area,Rural,11.5,27.2
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,MLRDIAG,Sex,Female,14.4,25
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,MLRDIAG,Sex,Male,14.4,24.8
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,MLRDIAG,WIQ,Poorest,9.1,20.9
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,MLRDIAG,WIQ,Second,10.5,24
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,MLRDIAG,WIQ,Middle,14,24.9
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,MLRDIAG,WIQ,Fourth,15.3,29.4
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,MLRDIAG,WIQ,Richest,23.1,32.8
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORS,National,National,31.5,37.8
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORS,Area,Urban,38.3,43.8
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORS,Area,Rural,30.2,35.9
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORS,Sex,Female,31.3,36.5
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORS,Sex,Male,31.4,37.3
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORS,WIQ,Poorest,25.2,33
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORS,WIQ,Second,28.3,34.5
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORS,WIQ,Middle,33.2,39.6
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORS,WIQ,Fourth,36.4,41.2
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORS,WIQ,Richest,41.5,46.6
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORSZINC,National,National,0.9,15.6
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORSZINC,Area,Urban,1,19.6
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORSZINC,Area,Rural,1,14.4
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORSZINC,Sex,Female,1,18.1
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORSZINC,Sex,Male,0.7,15.8
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORSZINC,WIQ,Poorest,0.8,14.7
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORSZINC,WIQ,Second,0.9,15.5
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORSZINC,WIQ,Middle,0.8,17.3
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORSZINC,WIQ,Fourth,1.2,19
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORSZINC,WIQ,Richest,1.2,22.9
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORSZINC,Mother's Education,None,1.1,7.4
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORSZINC,Mother's Education,Primary,1.1,7.1
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORTCF,National,National,34.8,40.4
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORTCF,Area,Urban,40.2,45.7
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORTCF,Area,Rural,33.1,38.8
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORTCF,Sex,Female,33.9,40.6
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORTCF,Sex,Male,34.6,40.9
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORTCF,WIQ,Poorest,31.1,35
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORTCF,WIQ,Second,31.3,40.7
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORTCF,WIQ,Middle,35.6,42
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORTCF,WIQ,Fourth,38.6,43
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ORTCF,WIQ,Richest,43,48.2
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,PNEUCARE,National,National,48.4,57.4
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,PNEUCARE,Area,Urban,54.3,67.3
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,PNEUCARE,Area,Rural,46.4,53.7
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,PNEUCARE,Sex,Female,49,56.6
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,PNEUCARE,Sex,Male,47.2,58.2
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,PNEUCARE,WIQ,Poorest,38.4,50.9
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,PNEUCARE,WIQ,Second,46.3,54
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,PNEUCARE,WIQ,Middle,50.5,57.1
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,PNEUCARE,WIQ,Fourth,54.9,62.2
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,PNEUCARE,WIQ,Richest,68.1,69.4
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ZINC,National,National,1.5,22.6
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ZINC,Area,Urban,1.7,25.7
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ZINC,Area,Rural,1.5,21.1
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ZINC,Sex,Female,1.5,24.4
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ZINC,Sex,Male,1.2,22.3
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ZINC,WIQ,Poorest,1.3,19.7
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ZINC,WIQ,Second,1.4,19
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ZINC,WIQ,Middle,1.4,23.7
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ZINC,WIQ,Fourth,1.3,26.8
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ZINC,WIQ,Richest,2.1,27.3
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ZINC,Mother's Education,None,1.6,16.9
+UNICEF Reporting Region,SSA,Sub-SaharanÿAfrica,ZINC,Mother's Education,Primary,1,23.3
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,DIARCARE,National,National,40.9,50.6
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,DIARCARE,Area,Urban,45.7,54.9
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,DIARCARE,Area,Rural,40.3,49.8
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,DIARCARE,Sex,Female,40.3,51.3
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,DIARCARE,Sex,Male,40.7,49.6
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,DIARCARE,WIQ,Poorest,37.7,45.7
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,DIARCARE,WIQ,Second,37.5,48.8
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,DIARCARE,WIQ,Middle,41.7,52.8
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,DIARCARE,WIQ,Fourth,42.7,51.3
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,DIARCARE,WIQ,Richest,49.8,56.6
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,DIARCARE,Mother's Education,None,38.3,45.9
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,DIARCARE,Mother's Education,Primary,41.4,52.4
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,DIARCARE,Mother's Education,Sec & Higher,51.6,44.9
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,IPTP,National,National,8.7,26.3
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,IPTP,Area,Rural,8.1,23.2
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,IPTP,WIQ,Poorest,8,23
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,IPTP,WIQ,Second,8.8,23.9
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,IPTP,WIQ,Middle,8.9,26
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,IPTP,WIQ,Fourth,9.1,25.4
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,IPTP,WIQ,Richest,10.5,26
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITN,National,National,38.6,50.3
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITN,Area,Urban,42.6,51.5
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITN,Area,Rural,38.9,48.2
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITN,Sex,Female,42.6,50.3
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITN,Sex,Male,42.2,50
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITN,WIQ,Poorest,35.9,39
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITN,WIQ,Second,39.1,46.9
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITN,WIQ,Middle,40.5,49.3
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITN,WIQ,Fourth,42.3,54.3
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITN,WIQ,Richest,45.8,55.2
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITNOWN,National,National,51,65.8
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITNOWN,Area,Urban,50.4,62.2
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITNOWN,Area,Rural,54.1,65.9
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITNOWN,WIQ,Poorest,45.8,57.3
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITNOWN,WIQ,Second,51.5,65.1
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITNOWN,WIQ,Middle,53.3,67.2
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITNOWN,WIQ,Fourth,56,68.2
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITNOWN,WIQ,Richest,59.1,65.2
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITNPREG,National,National,42.3,54.4
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITNPREG,Area,Urban,41.9,48.6
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITNPREG,Area,Rural,42.9,53.7
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITNPREG,WIQ,Poorest,39.3,45.6
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITNPREG,WIQ,Second,42.6,55.7
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITNPREG,WIQ,Middle,40.8,54.9
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITNPREG,WIQ,Fourth,44.9,49.8
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ITNPREG,WIQ,Richest,44.1,54
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRACT,National,National,45.6,79.9
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRACT,Area,Urban,39.7,76.7
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRACT,Area,Rural,37.9,80.9
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRACT,Sex,Female,37.2,78.7
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRACT,Sex,Male,37.7,79.6
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRACT,WIQ,Poorest,39.9,77.3
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRACT,WIQ,Second,36.1,80
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRACT,WIQ,Middle,36.9,76
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRACT,WIQ,Fourth,37.6,80.7
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRACT,WIQ,Richest,38.5,75.3
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRCARE,National,National,50.3,60.5
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRCARE,Area,Rural,47.9,57.3
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRCARE,Sex,Female,53.5,59.5
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRCARE,Sex,Male,54.2,60
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRCARE,WIQ,Poorest,44.2,53.3
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRCARE,WIQ,Second,47.8,57.9
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRCARE,WIQ,Middle,47.8,59.3
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRCARE,WIQ,Fourth,54.7,64.7
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRCARE,WIQ,Richest,61.7,68
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRDIAG,National,National,19.4,34.5
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRDIAG,Area,Urban,34.8,44.4
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRDIAG,Area,Rural,15.8,38.1
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRDIAG,Sex,Female,18.9,33.4
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRDIAG,Sex,Male,19.8,32.4
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRDIAG,WIQ,Poorest,12,28.2
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRDIAG,WIQ,Second,13.7,32.4
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRDIAG,WIQ,Middle,19.9,32
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRDIAG,WIQ,Fourth,20.9,37.9
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,MLRDIAG,WIQ,Richest,29.6,42.5
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORS,National,National,36.3,39.3
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORS,Area,Urban,42.2,45.8
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORS,Area,Rural,35.2,37.8
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORS,Sex,Female,36.3,38.8
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORS,Sex,Male,36.3,39.8
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORS,WIQ,Poorest,32.8,36.6
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORS,WIQ,Second,34.1,35.6
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORS,WIQ,Middle,36.3,41.9
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORS,WIQ,Fourth,39.6,41.2
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORS,WIQ,Richest,41.2,44
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORSZINC,National,National,0.8,17
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORSZINC,Area,Rural,0.7,16
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORSZINC,Sex,Female,1.1,19.3
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORSZINC,Sex,Male,0.7,17.5
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORSZINC,WIQ,Poorest,0.7,14.6
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORSZINC,WIQ,Middle,1,17.1
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORSZINC,Mother's Education,None,0.8,13.2
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORTCF,National,National,36.4,43.8
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORTCF,Area,Urban,42.3,50.7
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORTCF,Area,Rural,34.8,41.6
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORTCF,Sex,Female,34.4,43.3
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORTCF,Sex,Male,36.3,44.3
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORTCF,WIQ,Poorest,34.7,37.4
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORTCF,WIQ,Second,32.1,44.5
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORTCF,WIQ,Middle,35.3,45
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORTCF,WIQ,Fourth,38.4,46.4
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ORTCF,WIQ,Richest,41.9,48.2
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,PNEUCARE,National,National,53.1,54.3
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,PNEUCARE,Area,Urban,65.2,64.9
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,PNEUCARE,Area,Rural,50.3,51.6
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,PNEUCARE,Sex,Female,53,53.2
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,PNEUCARE,Sex,Male,53.2,54.5
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,PNEUCARE,WIQ,Poorest,45.4,45.9
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,PNEUCARE,WIQ,Second,50.9,51.1
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,PNEUCARE,WIQ,Middle,51.9,52.1
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,PNEUCARE,WIQ,Fourth,56.7,60.1
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,PNEUCARE,WIQ,Richest,69.9,63.8
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ZINC,National,National,1.2,23.8
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ZINC,Area,Rural,1.1,23.2
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ZINC,Sex,Female,1.4,27
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ZINC,Sex,Male,1.2,23.5
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ZINC,WIQ,Poorest,1.1,20.7
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ZINC,WIQ,Middle,1.5,22.7
+UNICEF Reporting Sub-Region,ESA,EasternÿandÿSouthernÿAfrica,ZINC,WIQ,Fourth,1,27.4
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,DIARCARE,National,National,30.2,52.9
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,DIARCARE,Area,Urban,34.8,53.7
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,DIARCARE,Area,Rural,28.5,52.6
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,DIARCARE,Sex,Female,29,51.5
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,DIARCARE,Sex,Male,29.3,51.3
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,DIARCARE,WIQ,Poorest,21.8,48.3
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,DIARCARE,WIQ,Second,27.1,50.8
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,DIARCARE,WIQ,Middle,33.4,52.6
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,DIARCARE,WIQ,Fourth,35.4,52.2
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,DIARCARE,WIQ,Richest,40.2,59.6
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,DIARCARE,Mother's Education,None,24.4,32.4
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,DIARCARE,Mother's Education,Primary,33.7,35.3
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,DIARCARE,Mother's Education,Sec & Higher,39.8,42.7
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,IPTP,National,National,6.3,18.9
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,IPTP,Area,Urban,8.6,22.6
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,IPTP,Area,Rural,5.5,16.9
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,IPTP,WIQ,Poorest,3.9,13.2
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,IPTP,WIQ,Second,5.2,13.9
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,IPTP,WIQ,Middle,6,17
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,IPTP,WIQ,Fourth,8.7,21.6
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,IPTP,WIQ,Richest,9.3,23.2
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,IPTP,Mother's Education,None,4.3,13.2
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,IPTP,Mother's Education,Primary,6.5,16.2
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,IPTP,Mother's Education,Sec & higher,8.5,20.9
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITN,National,National,32.5,55.8
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITN,Area,Urban,29.7,48.3
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITN,Area,Rural,31.8,56
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITN,Sex,Female,22.5,56.1
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITN,Sex,Male,21.6,55.9
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITN,WIQ,Poorest,19,56.1
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITN,WIQ,Second,20.9,59
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITN,WIQ,Middle,21.6,56.4
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITN,WIQ,Fourth,23.5,51.4
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITN,WIQ,Richest,25.6,45.4
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITNOWN,National,National,46.5,66.2
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITNOWN,Area,Urban,41,59.8
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITNOWN,Area,Rural,47.3,69.6
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITNOWN,WIQ,Poorest,28.1,69.7
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITNOWN,WIQ,Second,31.7,72.4
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITNOWN,WIQ,Middle,32.7,69.2
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITNOWN,WIQ,Fourth,33.5,64.8
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITNOWN,WIQ,Richest,36.4,59.6
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITNPREG,National,National,24.2,57.1
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITNPREG,Area,Urban,22.1,48.7
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITNPREG,Area,Rural,25.6,61.4
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITNPREG,WIQ,Poorest,22.8,61.7
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITNPREG,WIQ,Second,24.9,65.5
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITNPREG,WIQ,Middle,25.6,60
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITNPREG,WIQ,Fourth,24.2,51.8
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ITNPREG,WIQ,Richest,24,44.6
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,MLRACT,National,National,15.9,38.1
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,MLRACT,Area,Urban,16.4,39.9
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,MLRACT,Area,Rural,10.3,36.7
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,MLRACT,Sex,Female,10.9,35.7
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,MLRACT,Sex,Male,10.7,37.5
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,MLRACT,WIQ,Poorest,8.9,34.9
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,MLRACT,WIQ,Second,11,38.3
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,MLRACT,WIQ,Middle,11.2,36
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,MLRACT,WIQ,Fourth,12,33.7
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,MLRACT,WIQ,Richest,16.9,37.1
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,MLRDIAG,National,National,9.6,19.5
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,MLRDIAG,Area,Urban,13.9,21.8
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,MLRDIAG,Area,Rural,7.9,18.5
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,MLRDIAG,Sex,Female,10.5,18.3
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,MLRDIAG,Sex,Male,9.9,18.7
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,MLRDIAG,WIQ,Poorest,6.5,14.7
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,MLRDIAG,WIQ,Second,7.6,16.7
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,MLRDIAG,WIQ,Middle,8.6,18.9
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,MLRDIAG,WIQ,Fourth,10.3,22.1
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,MLRDIAG,WIQ,Richest,17.4,24.5
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORS,National,National,27.4,36.5
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORS,Area,Urban,36.3,42.8
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORS,Area,Rural,24.8,33.9
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORS,Sex,Female,26.8,34.4
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORS,Sex,Male,26.9,35.1
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORS,WIQ,Poorest,18.7,30
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORS,WIQ,Second,23.3,33.6
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORS,WIQ,Middle,30.4,37.7
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORS,WIQ,Fourth,33.6,41.3
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORS,WIQ,Richest,41.7,48.7
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORSZINC,National,National,1,14.7
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORSZINC,Area,Urban,0.9,19.2
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORSZINC,Area,Rural,1.3,12.8
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORSZINC,Sex,Female,1,17.3
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORSZINC,Sex,Male,0.6,14.6
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORSZINC,WIQ,Poorest,0.9,14.7
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORSZINC,WIQ,Second,0.7,12.8
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORSZINC,WIQ,Middle,0.7,17.5
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORSZINC,WIQ,Fourth,1.2,18.5
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORSZINC,WIQ,Richest,1.1,23.6
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORSZINC,Mother's Education,None,1.3,3.3
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORSZINC,Mother's Education,Primary,1,3
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORSZINC,Mother's Education,Sec & higher,1.3,4.2
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORTCF,National,National,33.5,37.9
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORTCF,Area,Urban,39.1,43.4
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORTCF,Area,Rural,31.3,36.1
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORTCF,Sex,Female,33.5,38.6
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORTCF,Sex,Male,33.3,38.4
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORTCF,WIQ,Poorest,28.2,33.2
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORTCF,WIQ,Second,30.6,37.8
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORTCF,WIQ,Middle,35.9,39.7
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORTCF,WIQ,Fourth,38.8,40.4
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ORTCF,WIQ,Richest,43.8,48.2
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,PNEUCARE,National,National,44.5,59.8
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,PNEUCARE,Area,Urban,48.5,68.5
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,PNEUCARE,Area,Rural,41.7,56
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,PNEUCARE,Sex,Female,45.4,59.6
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,PNEUCARE,Sex,Male,41.7,61.4
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,PNEUCARE,WIQ,Poorest,31.8,55.3
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,PNEUCARE,WIQ,Second,42,56.6
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,PNEUCARE,WIQ,Middle,49.2,61.6
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,PNEUCARE,WIQ,Fourth,53,64.1
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,PNEUCARE,WIQ,Richest,66.2,75.2
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ZINC,National,National,1.7,21.7
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ZINC,Area,Urban,1.4,27
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ZINC,Area,Rural,1.9,19.1
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ZINC,Sex,Female,1.5,22.6
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ZINC,Sex,Male,1.2,21.4
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ZINC,WIQ,Poorest,1.4,18.9
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ZINC,WIQ,Second,1.1,18.3
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ZINC,WIQ,Middle,1.4,24.4
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ZINC,WIQ,Fourth,1.6,26.4
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ZINC,WIQ,Richest,1.6,30.5
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ZINC,Mother's Education,None,1.7,16.3
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ZINC,Mother's Education,Primary,1,21.4
+UNICEF Reporting Sub-Region,WCA,WesternÿandÿCentralÿAfrica,ZINC,Mother's Education,Sec & higher,1.3,27.7
+Global UNICEF Programme,Global,Global (Programme),DIARCARE,National,National,44.5,57.7
+Global UNICEF Programme,Global,Global (Programme),DIARCARE,Area,Rural,43.5,56.5
+Global UNICEF Programme,Global,Global (Programme),DIARCARE,Sex,Female,43.3,56.5
+Global UNICEF Programme,Global,Global (Programme),DIARCARE,Sex,Male,45.3,58.2
+Global UNICEF Programme,Global,Global (Programme),DIARCARE,WIQ,Poorest,38.3,52.4
+Global UNICEF Programme,Global,Global (Programme),DIARCARE,WIQ,Second,42.3,55.7
+Global UNICEF Programme,Global,Global (Programme),DIARCARE,WIQ,Middle,46.9,59
+Global UNICEF Programme,Global,Global (Programme),DIARCARE,WIQ,Fourth,48.9,60.1
+Global UNICEF Programme,Global,Global (Programme),DIARCARE,WIQ,Richest,56.1,64.7
+Global UNICEF Programme,Global,Global (Programme),ORS,National,National,34.9,43.8
+Global UNICEF Programme,Global,Global (Programme),ORS,Area,Rural,32.7,42.1
+Global UNICEF Programme,Global,Global (Programme),ORS,Sex,Female,34.1,42.7
+Global UNICEF Programme,Global,Global (Programme),ORS,Sex,Male,35.6,44.5
+Global UNICEF Programme,Global,Global (Programme),ORS,WIQ,Poorest,29,38.9
+Global UNICEF Programme,Global,Global (Programme),ORS,WIQ,Second,30.4,41
+Global UNICEF Programme,Global,Global (Programme),ORS,WIQ,Middle,34.6,44
+Global UNICEF Programme,Global,Global (Programme),ORS,WIQ,Fourth,37.5,46.8
+Global UNICEF Programme,Global,Global (Programme),ORS,WIQ,Richest,43.2,49.4
+Global UNICEF Programme,Global,Global (Programme),ORSZINC,National,National,1.6,15.6
+Global UNICEF Programme,Global,Global (Programme),ORSZINC,Area,Rural,1.5,14.5
+Global UNICEF Programme,Global,Global (Programme),ORTCF,National,National,39.2,42.2
+Global UNICEF Programme,Global,Global (Programme),ORTCF,Area,Rural,37.2,40.4
+Global UNICEF Programme,Global,Global (Programme),ORTCF,WIQ,Poorest,36.1,37.8
+Global UNICEF Programme,Global,Global (Programme),ORTCF,WIQ,Second,36.2,41
+Global UNICEF Programme,Global,Global (Programme),ORTCF,WIQ,Middle,37.8,42.2
+Global UNICEF Programme,Global,Global (Programme),ORTCF,WIQ,Fourth,40.7,44.5
+Global UNICEF Programme,Global,Global (Programme),ORTCF,WIQ,Richest,45.9,49.5
+Global UNICEF Programme,Global,Global (Programme),PNEUCARE,National,National,60,68.3
+Global UNICEF Programme,Global,Global (Programme),PNEUCARE,Area,Rural,57.3,65.5
+Global UNICEF Programme,Global,Global (Programme),PNEUCARE,Sex,Female,58.6,66.6
+Global UNICEF Programme,Global,Global (Programme),PNEUCARE,Sex,Male,61.4,70
+Global UNICEF Programme,Global,Global (Programme),PNEUCARE,WIQ,Poorest,50.7,60.5
+Global UNICEF Programme,Global,Global (Programme),PNEUCARE,WIQ,Second,57.4,65.3
+Global UNICEF Programme,Global,Global (Programme),PNEUCARE,WIQ,Middle,60.7,68.9
+Global UNICEF Programme,Global,Global (Programme),PNEUCARE,WIQ,Fourth,66.9,73.4
+Global UNICEF Programme,Global,Global (Programme),PNEUCARE,WIQ,Richest,74.5,79.2
+Global UNICEF Programme,Global,Global (Programme),ZINC,National,National,3,22.9
+Global UNICEF Programme,Global,Global (Programme),ZINC,Area,Rural,2.8,21.6
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,DIARCARE,National,National,43.1,51.4
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,DIARCARE,Area,Urban,48.6,56.1
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,DIARCARE,Area,Rural,42.3,50.6
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,DIARCARE,Sex,Female,42.4,52.2
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,DIARCARE,Sex,Male,42.9,50.3
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,DIARCARE,WIQ,Poorest,39.8,47.4
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,DIARCARE,WIQ,Second,39.7,49.5
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,DIARCARE,WIQ,Middle,43.8,53
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,DIARCARE,WIQ,Fourth,44.7,52
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,DIARCARE,WIQ,Richest,52.4,57.6
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,DIARCARE,Mother's Education,None,40.5,46.7
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,DIARCARE,Mother's Education,Primary,43.5,53.4
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,IPTP,National,National,8.7,26.3
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,IPTP,Area,Urban,10.5,27.8
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,IPTP,Area,Rural,8.1,23.2
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,IPTP,WIQ,Poorest,8,23
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,IPTP,WIQ,Second,8.8,23.9
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,IPTP,WIQ,Middle,8.9,26
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,IPTP,WIQ,Fourth,9.1,25.4
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,IPTP,WIQ,Richest,10.5,26
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,IPTP,Mother's Education,None,7.1,22.3
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,IPTP,Mother's Education,Primary,9.3,25.4
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,IPTP,Mother's Education,Sec & higher,11.6,28.6
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITN,National,National,38.6,50.3
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITN,Area,Urban,42.6,51.5
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITN,Area,Rural,38.9,48.2
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITN,Sex,Female,42.6,50.3
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITN,Sex,Male,42.2,50
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITN,WIQ,Poorest,35.9,39
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITN,WIQ,Second,39.1,46.9
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITN,WIQ,Middle,40.5,49.3
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITN,WIQ,Fourth,42.3,54.3
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITN,WIQ,Richest,45.8,55.2
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITNOWN,National,National,51,65.8
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITNOWN,Area,Urban,50.4,62.2
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITNOWN,Area,Rural,54.1,65.9
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITNOWN,WIQ,Poorest,45.8,57.3
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITNOWN,WIQ,Second,51.5,65.1
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITNOWN,WIQ,Middle,53.3,67.2
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITNOWN,WIQ,Fourth,56,68.2
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITNOWN,WIQ,Richest,59.1,65.2
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITNPREG,National,National,42.3,54.4
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITNPREG,Area,Urban,41.9,48.6
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITNPREG,Area,Rural,42.9,53.7
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITNPREG,WIQ,Poorest,39.3,45.6
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITNPREG,WIQ,Second,42.6,55.7
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITNPREG,WIQ,Middle,40.8,54.9
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITNPREG,WIQ,Fourth,44.9,49.8
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ITNPREG,WIQ,Richest,44.1,54
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRACT,National,National,45.6,79.9
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRACT,Area,Urban,39.7,76.7
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRACT,Area,Rural,37.9,80.9
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRACT,Sex,Female,37.2,78.7
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRACT,Sex,Male,37.7,79.6
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRACT,WIQ,Poorest,39.9,77.3
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRACT,WIQ,Second,36.1,80
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRACT,WIQ,Middle,36.9,76
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRACT,WIQ,Fourth,37.6,80.7
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRACT,WIQ,Richest,38.5,75.3
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRCARE,National,National,50.3,60.5
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRCARE,Area,Rural,47.9,57.3
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRCARE,Sex,Female,53.5,59.5
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRCARE,Sex,Male,54.2,60
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRCARE,WIQ,Poorest,44.2,53.3
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRCARE,WIQ,Second,47.8,57.9
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRCARE,WIQ,Middle,47.8,59.3
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRCARE,WIQ,Fourth,54.7,64.7
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRCARE,WIQ,Richest,61.7,68
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRDIAG,National,National,19.4,34.5
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRDIAG,Area,Urban,34.8,44.4
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRDIAG,Area,Rural,15.8,38.1
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRDIAG,Sex,Female,18.9,33.4
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRDIAG,Sex,Male,19.8,32.4
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRDIAG,WIQ,Poorest,12,28.2
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRDIAG,WIQ,Second,13.7,32.4
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRDIAG,WIQ,Middle,19.9,32
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRDIAG,WIQ,Fourth,20.9,37.9
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,MLRDIAG,WIQ,Richest,29.6,42.5
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORS,National,National,37.8,41.3
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORS,Area,Urban,44.8,48.5
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORS,Area,Rural,36.4,39.6
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORS,Sex,Female,37.8,40.7
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORS,Sex,Male,37.8,41.8
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORS,WIQ,Poorest,34,38.6
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORS,WIQ,Second,35,37.2
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORS,WIQ,Middle,37.8,44
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORS,WIQ,Fourth,41.4,43.2
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORS,WIQ,Richest,43.9,46.4
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORSZINC,National,National,0.8,15.6
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORSZINC,Area,Rural,0.8,15
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORSZINC,Sex,Male,0.7,16.1
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORSZINC,WIQ,Poorest,0.7,14.6
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORSZINC,WIQ,Middle,1.1,15.6
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORSZINC,Mother's Education,None,0.8,13.2
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORTCF,National,National,39.4,41.9
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORTCF,Area,Urban,46.7,49.5
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORTCF,Area,Rural,37.4,39.6
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORTCF,Sex,Female,37.5,41
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORTCF,Sex,Male,39.5,42.5
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORTCF,WIQ,Poorest,37.6,35.2
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORTCF,WIQ,Second,34.8,42.5
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORTCF,WIQ,Middle,38.1,43.7
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORTCF,WIQ,Fourth,41.7,44.7
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ORTCF,WIQ,Richest,45.3,46.2
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,PNEUCARE,National,National,52.8,55
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,PNEUCARE,Area,Urban,65,66.3
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,PNEUCARE,Area,Rural,50.2,52.1
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,PNEUCARE,Sex,Female,52.8,53.7
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,PNEUCARE,Sex,Male,52.8,55.1
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,PNEUCARE,WIQ,Poorest,46,47.8
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,PNEUCARE,WIQ,Second,50.7,51.7
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,PNEUCARE,WIQ,Middle,50.5,51.1
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,PNEUCARE,WIQ,Fourth,55.5,60.8
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,PNEUCARE,WIQ,Richest,69.8,63.8
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ZINC,National,National,1.3,24.8
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ZINC,Area,Rural,1.2,24.2
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ZINC,Sex,Female,1.6,28.8
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ZINC,Sex,Male,1.3,24.5
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ZINC,WIQ,Poorest,1.2,21.5
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ZINC,WIQ,Middle,1.7,23.9
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ZINC,WIQ,Fourth,1.1,29.2
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ZINC,Mother's Education,None,1.4,18.1
+UNICEF Programme Region,ESARO,East and Southern Africa Regional Office,ZINC,Mother's Education,Primary,1.1,26.6
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,DIARCARE,National,National,32.3,47.3
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,DIARCARE,Area,Rural,31.5,45.1
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,DIARCARE,Sex,Female,31,45.6
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,DIARCARE,Sex,Male,33.4,48.9
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,DIARCARE,WIQ,Poorest,29.9,41.4
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,DIARCARE,WIQ,Second,32.3,47.1
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,DIARCARE,WIQ,Middle,34.7,45.6
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,DIARCARE,WIQ,Fourth,31.5,52.2
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,DIARCARE,WIQ,Richest,34.4,53.4
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORS,National,National,27.6,26.7
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORS,Area,Rural,27.3,24.8
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORS,Sex,Female,26.9,25.4
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORS,Sex,Male,28.2,27.9
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORS,WIQ,Poorest,28.5,23.9
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORS,WIQ,Second,29.4,26.9
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORS,WIQ,Middle,26.1,27.1
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORS,WIQ,Fourth,25,26.8
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORS,WIQ,Richest,23.4,28.1
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORSZINC,Area,Rural,0.2,8.6
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORTCF,National,National,24.7,30.5
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORTCF,Area,Rural,23.7,29.6
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORTCF,Sex,Female,23.5,30.3
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORTCF,Sex,Male,25.4,29.6
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORTCF,WIQ,Poorest,22.7,25.7
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORTCF,WIQ,Second,25.8,32
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORTCF,WIQ,Middle,25.2,29.7
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORTCF,WIQ,Fourth,22.4,30
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ORTCF,WIQ,Richest,24,36.2
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,PNEUCARE,National,National,64.8,56.9
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,PNEUCARE,Area,Rural,59.1,56.3
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,PNEUCARE,Sex,Female,61.8,53.8
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,PNEUCARE,Sex,Male,67.3,59.4
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,PNEUCARE,WIQ,Poorest,58.1,49.8
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,PNEUCARE,WIQ,Second,63,52.7
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,PNEUCARE,WIQ,Middle,64.4,60.3
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,PNEUCARE,WIQ,Fourth,72.1,60.3
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,PNEUCARE,WIQ,Richest,73.2,64
+UNICEF Programme Region,MENA,MiddleÿEastÿandÿNorthÿAfrica,ZINC,Area,Rural,0.4,5.3
+UNICEF Programme Region,ROSA,Regional Office for South Asia,DIARCARE,National,National,54.7,63.9
+UNICEF Programme Region,ROSA,Regional Office for South Asia,DIARCARE,Area,Urban,61,68.5
+UNICEF Programme Region,ROSA,Regional Office for South Asia,DIARCARE,Area,Rural,52.5,61.9
+UNICEF Programme Region,ROSA,Regional Office for South Asia,DIARCARE,Sex,Female,52.8,62.2
+UNICEF Programme Region,ROSA,Regional Office for South Asia,DIARCARE,Sex,Male,56.4,65
+UNICEF Programme Region,ROSA,Regional Office for South Asia,DIARCARE,WIQ,Poorest,45.7,55.8
+UNICEF Programme Region,ROSA,Regional Office for South Asia,DIARCARE,WIQ,Second,51,60.6
+UNICEF Programme Region,ROSA,Regional Office for South Asia,DIARCARE,WIQ,Middle,54.6,66.9
+UNICEF Programme Region,ROSA,Regional Office for South Asia,DIARCARE,WIQ,Fourth,59,68.5
+UNICEF Programme Region,ROSA,Regional Office for South Asia,DIARCARE,WIQ,Richest,68.6,73.5
+UNICEF Programme Region,ROSA,Regional Office for South Asia,DIARCARE,Mother's Education,None,49.4,59
+UNICEF Programme Region,ROSA,Regional Office for South Asia,DIARCARE,Mother's Education,Primary,56.4,61.4
+UNICEF Programme Region,ROSA,Regional Office for South Asia,MLRACT,National,National,5.6,8.5
+UNICEF Programme Region,ROSA,Regional Office for South Asia,MLRACT,Area,Urban,4.8,13.7
+UNICEF Programme Region,ROSA,Regional Office for South Asia,MLRACT,Area,Rural,6,6.5
+UNICEF Programme Region,ROSA,Regional Office for South Asia,MLRACT,Sex,Female,5.6,9.8
+UNICEF Programme Region,ROSA,Regional Office for South Asia,MLRACT,Sex,Male,5.6,7.3
+UNICEF Programme Region,ROSA,Regional Office for South Asia,MLRACT,WIQ,Poorest,4.5,6
+UNICEF Programme Region,ROSA,Regional Office for South Asia,MLRACT,WIQ,Second,6.4,8.3
+UNICEF Programme Region,ROSA,Regional Office for South Asia,MLRACT,WIQ,Middle,6.7,5.6
+UNICEF Programme Region,ROSA,Regional Office for South Asia,MLRACT,WIQ,Fourth,6.1,11.2
+UNICEF Programme Region,ROSA,Regional Office for South Asia,MLRACT,WIQ,Richest,4.4,13.2
+UNICEF Programme Region,ROSA,Regional Office for South Asia,MLRCARE,National,National,66.4,71.5
+UNICEF Programme Region,ROSA,Regional Office for South Asia,MLRCARE,Area,Urban,74.4,78.2
+UNICEF Programme Region,ROSA,Regional Office for South Asia,MLRCARE,Area,Rural,63.9,69.4
+UNICEF Programme Region,ROSA,Regional Office for South Asia,MLRCARE,Sex,Female,63.8,70.4
+UNICEF Programme Region,ROSA,Regional Office for South Asia,MLRCARE,Sex,Male,68.5,72.6
+UNICEF Programme Region,ROSA,Regional Office for South Asia,MLRCARE,WIQ,Poorest,59,62.3
+UNICEF Programme Region,ROSA,Regional Office for South Asia,MLRCARE,WIQ,Second,62.4,68.3
+UNICEF Programme Region,ROSA,Regional Office for South Asia,MLRCARE,WIQ,Middle,67.6,73.5
+UNICEF Programme Region,ROSA,Regional Office for South Asia,MLRCARE,WIQ,Fourth,70.6,78.3
+UNICEF Programme Region,ROSA,Regional Office for South Asia,MLRCARE,WIQ,Richest,78.5,81.3
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORS,National,National,33.8,49.8
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORS,Area,Urban,39.6,55.4
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORS,Area,Rural,31.6,47.7
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORS,Sex,Female,33.1,48.9
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORS,Sex,Male,34.3,50.4
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORS,WIQ,Poorest,28.8,45.4
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORS,WIQ,Second,28.9,47.5
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORS,WIQ,Middle,32.9,49.7
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORS,WIQ,Fourth,36.4,54.4
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORS,WIQ,Richest,46.7,57.3
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORSZINC,National,National,2.3,17.1
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORSZINC,Area,Urban,3.1,20.2
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORSZINC,Area,Rural,2,16
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORSZINC,Sex,Female,2.4,17
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORSZINC,Sex,Male,2.2,17.2
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORSZINC,WIQ,Middle,3.2,17.1
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORSZINC,WIQ,Richest,3.8,21.3
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORTCF,National,National,38,41
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORTCF,Area,Urban,42.1,44.4
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORTCF,Area,Rural,36.1,39.6
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORTCF,WIQ,Poorest,34.5,37.7
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORTCF,WIQ,Second,35.1,38.9
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORTCF,WIQ,Middle,35.2,40.5
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORTCF,WIQ,Fourth,39.7,44.4
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ORTCF,WIQ,Richest,47.8,46.3
+UNICEF Programme Region,ROSA,Regional Office for South Asia,PNEUCARE,National,National,65.4,75.9
+UNICEF Programme Region,ROSA,Regional Office for South Asia,PNEUCARE,Area,Urban,75.7,83.6
+UNICEF Programme Region,ROSA,Regional Office for South Asia,PNEUCARE,Area,Rural,62.3,73.6
+UNICEF Programme Region,ROSA,Regional Office for South Asia,PNEUCARE,Sex,Female,62.2,73.9
+UNICEF Programme Region,ROSA,Regional Office for South Asia,PNEUCARE,Sex,Male,67.9,77.5
+UNICEF Programme Region,ROSA,Regional Office for South Asia,PNEUCARE,WIQ,Poorest,56.5,65.8
+UNICEF Programme Region,ROSA,Regional Office for South Asia,PNEUCARE,WIQ,Second,62.6,72.8
+UNICEF Programme Region,ROSA,Regional Office for South Asia,PNEUCARE,WIQ,Middle,65.3,77.5
+UNICEF Programme Region,ROSA,Regional Office for South Asia,PNEUCARE,WIQ,Fourth,73,81.8
+UNICEF Programme Region,ROSA,Regional Office for South Asia,PNEUCARE,WIQ,Richest,78.6,87.6
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ZINC,National,National,4.7,23.3
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ZINC,Area,Urban,6.4,26.4
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ZINC,Area,Rural,4.3,22.3
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ZINC,Sex,Female,4.5,22.8
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ZINC,Sex,Male,4.8,23.7
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ZINC,WIQ,Second,5,21.9
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ZINC,WIQ,Middle,5.1,24.1
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ZINC,WIQ,Fourth,4.8,25.3
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ZINC,WIQ,Richest,6,27.9
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ZINC,Mother's Education,None,4.1,20.3
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ZINC,Mother's Education,Primary,4.9,21.4
+UNICEF Programme Region,ROSA,Regional Office for South Asia,ZINC,Mother's Education,Sec & higher,5.6,23.8
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,DIARCARE,National,National,30.2,52.9
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,DIARCARE,Area,Urban,34.8,53.7
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,DIARCARE,Area,Rural,28.5,52.6
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,DIARCARE,Sex,Female,29,51.5
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,DIARCARE,Sex,Male,29.3,51.3
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,DIARCARE,WIQ,Poorest,21.8,48.3
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,DIARCARE,WIQ,Second,27.1,50.8
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,DIARCARE,WIQ,Middle,33.4,52.6
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,DIARCARE,WIQ,Fourth,35.4,52.2
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,DIARCARE,WIQ,Richest,40.2,59.6
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,DIARCARE,Mother's Education,None,24.4,32.4
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,DIARCARE,Mother's Education,Primary,33.7,35.3
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,DIARCARE,Mother's Education,Sec & Higher,39.8,42.7
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,IPTP,National,National,6.3,18.9
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,IPTP,Area,Urban,8.6,22.6
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,IPTP,Area,Rural,5.5,16.9
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,IPTP,WIQ,Poorest,3.9,13.2
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,IPTP,WIQ,Second,5.2,13.9
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,IPTP,WIQ,Middle,6,17
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,IPTP,WIQ,Fourth,8.7,21.6
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,IPTP,WIQ,Richest,9.3,23.2
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,IPTP,Mother's Education,None,4.3,13.2
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,IPTP,Mother's Education,Primary,6.5,16.2
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,IPTP,Mother's Education,Sec & higher,8.5,20.9
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITN,National,National,32.5,55.8
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITN,Area,Urban,29.7,48.3
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITN,Area,Rural,31.8,56
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITN,Sex,Female,22.5,56.1
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITN,Sex,Male,21.6,55.9
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITN,WIQ,Poorest,19,56.1
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITN,WIQ,Second,20.9,59
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITN,WIQ,Middle,21.6,56.4
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITN,WIQ,Fourth,23.5,51.4
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITN,WIQ,Richest,25.6,45.4
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITNOWN,National,National,46.5,66.2
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITNOWN,Area,Urban,41,59.8
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITNOWN,Area,Rural,47.3,69.6
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITNOWN,WIQ,Poorest,28.1,69.7
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITNOWN,WIQ,Second,31.7,72.4
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITNOWN,WIQ,Middle,32.7,69.2
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITNOWN,WIQ,Fourth,33.5,64.8
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITNOWN,WIQ,Richest,36.4,59.6
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITNPREG,National,National,24.2,57.1
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITNPREG,Area,Urban,22.1,48.7
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITNPREG,Area,Rural,25.6,61.4
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITNPREG,WIQ,Poorest,22.8,61.7
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITNPREG,WIQ,Second,24.9,65.5
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITNPREG,WIQ,Middle,25.6,60
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITNPREG,WIQ,Fourth,24.2,51.8
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ITNPREG,WIQ,Richest,24,44.6
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,MLRACT,National,National,15.9,38.1
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,MLRACT,Area,Urban,16.4,39.9
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,MLRACT,Area,Rural,10.3,36.7
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,MLRACT,Sex,Female,10.9,35.7
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,MLRACT,Sex,Male,10.7,37.5
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,MLRACT,WIQ,Poorest,8.9,34.9
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,MLRACT,WIQ,Second,11,38.3
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,MLRACT,WIQ,Middle,11.2,36
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,MLRACT,WIQ,Fourth,12,33.7
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,MLRACT,WIQ,Richest,16.9,37.1
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,MLRDIAG,National,National,9.6,19.5
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,MLRDIAG,Area,Urban,13.9,21.8
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,MLRDIAG,Area,Rural,7.9,18.5
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,MLRDIAG,Sex,Female,10.5,18.3
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,MLRDIAG,Sex,Male,9.9,18.7
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,MLRDIAG,WIQ,Poorest,6.5,14.7
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,MLRDIAG,WIQ,Second,7.6,16.7
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,MLRDIAG,WIQ,Middle,8.6,18.9
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,MLRDIAG,WIQ,Fourth,10.3,22.1
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,MLRDIAG,WIQ,Richest,17.4,24.5
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORS,National,National,27.4,36.5
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORS,Area,Urban,36.3,42.8
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORS,Area,Rural,24.8,33.9
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORS,Sex,Female,26.8,34.4
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORS,Sex,Male,26.9,35.1
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORS,WIQ,Poorest,18.7,30
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORS,WIQ,Second,23.3,33.6
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORS,WIQ,Middle,30.4,37.7
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORS,WIQ,Fourth,33.6,41.3
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORS,WIQ,Richest,41.7,48.7
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORSZINC,National,National,1,14.7
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORSZINC,Area,Urban,0.9,19.2
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORSZINC,Area,Rural,1.3,12.8
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORSZINC,Sex,Female,1,17.3
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORSZINC,Sex,Male,0.6,14.6
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORSZINC,WIQ,Poorest,0.9,14.7
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORSZINC,WIQ,Second,0.7,12.8
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORSZINC,WIQ,Middle,0.7,17.5
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORSZINC,WIQ,Fourth,1.2,18.5
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORSZINC,WIQ,Richest,1.1,23.6
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORSZINC,Mother's Education,None,1.3,3.3
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORSZINC,Mother's Education,Primary,1,3
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORSZINC,Mother's Education,Sec & higher,1.3,4.2
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORTCF,National,National,33.5,37.9
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORTCF,Area,Urban,39.1,43.4
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORTCF,Area,Rural,31.3,36.1
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORTCF,Sex,Female,33.5,38.6
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORTCF,Sex,Male,33.3,38.4
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORTCF,WIQ,Poorest,28.2,33.2
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORTCF,WIQ,Second,30.6,37.8
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORTCF,WIQ,Middle,35.9,39.7
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORTCF,WIQ,Fourth,38.8,40.4
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ORTCF,WIQ,Richest,43.8,48.2
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,PNEUCARE,National,National,44.5,59.8
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,PNEUCARE,Area,Urban,48.5,68.5
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,PNEUCARE,Area,Rural,41.7,56
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,PNEUCARE,Sex,Female,45.4,59.6
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,PNEUCARE,Sex,Male,41.7,61.4
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,PNEUCARE,WIQ,Poorest,31.8,55.3
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,PNEUCARE,WIQ,Second,42,56.6
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,PNEUCARE,WIQ,Middle,49.2,61.6
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,PNEUCARE,WIQ,Fourth,53,64.1
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,PNEUCARE,WIQ,Richest,66.2,75.2
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ZINC,National,National,1.7,21.7
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ZINC,Area,Urban,1.4,27
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ZINC,Area,Rural,1.9,19.1
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ZINC,Sex,Female,1.5,22.6
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ZINC,Sex,Male,1.2,21.4
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ZINC,WIQ,Poorest,1.4,18.9
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ZINC,WIQ,Second,1.1,18.3
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ZINC,WIQ,Middle,1.4,24.4
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ZINC,WIQ,Fourth,1.6,26.4
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ZINC,WIQ,Richest,1.6,30.5
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ZINC,Mother's Education,None,1.7,16.3
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ZINC,Mother's Education,Primary,1,21.4
+UNICEF Programme Region,WCARO,WesternÿandÿCentralÿAfrica Regional Office,ZINC,Mother's Education,Sec & higher,1.3,27.7
